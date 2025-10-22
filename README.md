@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Marcos Marinho
+# 👨🏽‍💻 Marcos Marinho
 
 **`Desenvolvedor Web`**
 
