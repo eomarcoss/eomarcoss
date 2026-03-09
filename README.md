@@ -87,14 +87,14 @@ Me chamo Marcos César Marinho, tenho 20 anos e sou natural do Espiríto Santo. 
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=eomarcoss&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&refresh=true" 
+    src="https://github-readme-stats.vercel.app/api?username=eomarcoss&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 
 <img 
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=eomarcoss&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9&refresh=true" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=eomarcoss&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
 </p>
