@@ -3,7 +3,7 @@
 
 Me chamo Marcos César Marinho, tenho 20 anos e sou natural do Espiríto Santo. Concluí o ensino médio no IFES. Atualmente, estou cursando Sistemas de Informação na UFES Alegre. Sou apaixonado por tecnologia e a cada dia procuro aprender mais e mais.
 
-<p align="left">
+<!-- <p align="left">
     <a href="https://github.com/eomarcoss?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
@@ -18,7 +18,7 @@ Me chamo Marcos César Marinho, tenho 20 anos e sou natural do Espiríto Santo. 
             src="https://custom-icon-badges.demolab.com/github/followers/eomarcoss?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
-</p>
+</p> -->
 
 ---
 
