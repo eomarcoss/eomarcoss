@@ -1,8 +1,8 @@
 # 👨🏽‍💻 Marcos Marinho
 **`Desenvolvedor Web`**
 
-🎓  Formação Acadêmica: Estudante de Sistemas de Informação | UFES
-💻 Stack: JavaScript, React, Node.js, Express, MongoDB, AWS
+🎓 **Formação Acadêmica:** Estudante de Sistemas de Informação | UFES <br/>
+💻 **Stack:** JavaScript, React, Node.js, Express, MongoDB, AWS <br/>
 🚀 Sempre buscando evoluir e construir soluções que façam diferença
 <!-- <p align="left">
     <a href="https://github.com/eomarcoss?tab=repositories&sort=stargazers">
@@ -39,19 +39,10 @@
 <br/>
 
 ---
-
-### 📊 Estatísticas
-
-<p align="center">
+<!-- <p align="center">
   <img
     alt="GitHub Stats"
     height="180"
-    src="https://github-readme-stats.vercel.app/api?username=eomarcoss&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&hide_border=true"
+    src="https://streak-stats.demolab.com?user=eomarcoss&theme=tokyonight&hide_border=true&locale=pt_BR"
   />
-  &nbsp;
-  <img
-    alt="Top Langs"
-    height="180"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=eomarcoss&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9&hide_border=true"
-  />
-</p>
+</p> -->
