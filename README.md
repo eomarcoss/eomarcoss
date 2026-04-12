@@ -1,8 +1,9 @@
 # 👨🏽‍💻 Marcos Marinho
 **`Desenvolvedor Web`**
 
-Me chamo Marcos César Marinho, tenho 20 anos e sou natural do Espiríto Santo. Concluí o ensino médio no IFES. Atualmente, estou cursando Sistemas de Informação na UFES Alegre. Sou apaixonado por tecnologia e a cada dia procuro aprender mais e mais.
-
+🎓  Formação Acadêmica: Estudante de Sistemas de Informação | UFES
+💻 Stack: JavaScript, React, Node.js, Express, MongoDB, AWS
+🚀 Sempre buscando evoluir e construir soluções que façam diferença
 <!-- <p align="left">
     <a href="https://github.com/eomarcoss?tab=repositories&sort=stargazers">
         <img 
