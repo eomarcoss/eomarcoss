@@ -39,11 +39,3 @@
 <br/>
 <br/>
 
----
- <p align="center">
-  <img
-    alt="GitHub Stats"
-    height="180"
-    src="https://streak-stats.demolab.com?user=eomarcoss&theme=tokyonight&hide_border=true&locale=pt_BR"
-  />
-</p> 
