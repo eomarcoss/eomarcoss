@@ -1,8 +1,8 @@
 # 👨🏽‍💻 Marcos Marinho
-**`Desenvolvedor Web`**
+**`Desenvolvedor Full Stack`**
 
 🎓 **Formação Acadêmica:** Estudante de Sistemas de Informação | UFES <br/>
-💻 **Stack:** JavaScript, React, Node.js, Express, MongoDB, AWS <br/>
+💻 **Stack:** JavaScript, TypeScript, React, Node.js, Next.js, Nest.js, PostgreSQL, MongoDB <br/>
 🚀 Sempre buscando evoluir e construir soluções que façam diferença
 <!-- <p align="left">
     <a href="https://github.com/eomarcoss?tab=repositories&sort=stargazers">
@@ -39,10 +39,10 @@
 <br/>
 
 ---
-<!-- <p align="center">
+ <p align="center">
   <img
     alt="GitHub Stats"
     height="180"
     src="https://streak-stats.demolab.com?user=eomarcoss&theme=tokyonight&hide_border=true&locale=pt_BR"
   />
-</p> -->
+</p> 
